@@ -1,0 +1,13 @@
+peer:
+  - region: Region to use
+    from: 
+      vpc-id: <source vpc>
+      profile: <aws profile to use>
+      routetables:
+        - routeable
+    to:
+      - vpc-id: <target vpc>
+        profile: <target aws profile>
+        account: <target account number>
+        routetables:
+          - <routetables to update>
