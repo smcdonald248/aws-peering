@@ -1,0 +1,7 @@
+vpc-id,profile,routetb,region,vpc-id,profile,routetb,region,account
+vpc-04f627753377ad976,default,rtb-0ceb651e2b5494ab1,us-east-1,vpc-004b26b0c2cf2fcf1,default,rtb-0d44049b0252da4f7,us-east-2,712646839083
+vpc-04f627753377ad976,default,rtb-0ceb651e2b5494ab1,us-east-1,vpc-0ac32fea1558846ff,default,rtb-077353efd75b59bb1,us-west-1,712646839083
+vpc-04f627753377ad976,default,rtb-0ceb651e2b5494ab1,us-east-1,vpc-0809533b40b04784d,default,rtb-0188279218593d85b,us-west-1,712646839083
+vpc-0ac32fea1558846ff,default,rtb-077353efd75b59bb1,us-west-1,vpc-0809533b40b04784d,default,rtb-0188279218593d85b,us-west-1,712646839083
+vpc-04f627753377ad976,default,rtb-0ceb651e2b5494ab1,us-east-1,vpc-0f041a7f24d856fde,default,rtb-09e9fcba1e9d9a0c6,us-east-2,712646839083
+vpc-054417657f9fb6ae0,default,rtb-0f125ad0047d9e718,us-east-1,vpc-04f627753377ad976,default,rtb-0ceb651e2b5494ab1,us-east-1,712646839083
